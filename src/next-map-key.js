@@ -6,8 +6,8 @@
   nx.mapKey = function (inObj, inCallback, inContext) {
     var result = {};
     nx.each(inObj, function (key, value) {
-      var key = inCallback.call(inContext, key, value, inObj);
-      result[key] = value;
+      var _key = inCallback.call(inContext, key, value, inObj);
+      result[_key] = value;
     }, inContext);
     return result;
   };
