@@ -15,7 +15,8 @@ npm install -S @jswork/next-cdb-case
 ```js
 import '@jswork/next-cdb-case';
 
-//DOCS here!
+const res = nx.cdbCase('玛鲁ABC亲子乐园 V1.0.0（全能版）L1');
+// 玛鲁ABC亲子乐园 V1.0.0(全能版)L1
 ```
 
 ## ref
