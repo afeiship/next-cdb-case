@@ -19,7 +19,7 @@ const res = nx.cdbCase('玛鲁ABC亲子乐园 V1.0.0（全能版）L1');
 // 玛鲁ABC亲子乐园 V1.0.0(全能版)L1
 ```
 
-## ref
+## resources
 - https://www.cnblogs.com/moqiutao/p/6869794.html
 - https://baike.baidu.com/item/半角
 
